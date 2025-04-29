@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98f52902.css",
+    "main.js": "/static/js/main.5a34f4ae.js",
+    "static/media/avatar.svg": "/static/media/avatar.6acdd0f348322ba06d8275de5dd8ee85.svg",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.ff6476a52a444f6560f3.png",
+    "static/media/CURRICULUM VITAE Gnanhoungbe Arsène.pdf": "/static/media/CURRICULUM VITAE Gnanhoungbe Arsène.c5c8c2279bdc44fe2c14.pdf",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.1395b953ab4431c5386e.png",
+    "static/media/about.png": "/static/media/about.34da930ab4436bc41a33.png",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.8947bd554e8ba49f216c.png",
+    "static/media/design.svg": "/static/media/design.f5c8befde95863a5fb457a387d739ef1.svg",
+    "static/media/marketing.svg": "/static/media/marketing.2a70a92b4c312bc04c4879ace614c53e.svg",
+    "static/media/web.svg": "/static/media/web.9dc0e56bf2945daec8483755f00ccdb6.svg",
+    "index.html": "/index.html",
+    "main.98f52902.css.map": "/static/css/main.98f52902.css.map",
+    "main.5a34f4ae.js.map": "/static/js/main.5a34f4ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f52902.css",
+    "static/js/main.5a34f4ae.js"
+  ]
+}
